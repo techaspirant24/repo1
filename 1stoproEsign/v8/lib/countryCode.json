@@ -1,0 +1,1171 @@
+[
+    {
+        "country_name": "Afghanistan",
+        "recipient_countrycode": "+93",
+        "recipient_countrycode_iso": "AF"
+    },
+    {
+        "country_name": "Albania",
+        "recipient_countrycode": "+355",
+        "recipient_countrycode_iso": "AL"
+    },
+    {
+        "country_name": "Algeria",
+        "recipient_countrycode": "+213",
+        "recipient_countrycode_iso": "DZ"
+    },
+    {
+        "country_name": "American Samoa",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "AS"
+    },
+    {
+        "country_name": "Andorra",
+        "recipient_countrycode": "+376",
+        "recipient_countrycode_iso": "AD"
+    },
+    {
+        "country_name": "Angola",
+        "recipient_countrycode": "+244",
+        "recipient_countrycode_iso": "AO"
+    },
+    {
+        "country_name": "Anguilla",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "AI"
+    },
+    {
+        "country_name": "Antigua",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "AG"
+    },
+    {
+        "country_name": "Argentina",
+        "recipient_countrycode": "+54",
+        "recipient_countrycode_iso": "AR"
+    },
+    {
+        "country_name": "Armenia",
+        "recipient_countrycode": "+374",
+        "recipient_countrycode_iso": "AM"
+    },
+    {
+        "country_name": "Aruba",
+        "recipient_countrycode": "+297",
+        "recipient_countrycode_iso": "AW"
+    },
+    {
+        "country_name": "Australia",
+        "recipient_countrycode": "+61",
+        "recipient_countrycode_iso": "AU"
+    },
+    {
+        "country_name": "Austria",
+        "recipient_countrycode": "+43",
+        "recipient_countrycode_iso": "AT"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "recipient_countrycode": "+994",
+        "recipient_countrycode_iso": "AZ"
+    },
+    {
+        "country_name": "Bahrain",
+        "recipient_countrycode": "+973",
+        "recipient_countrycode_iso": "BH"
+    },
+    {
+        "country_name": "Bangladesh",
+        "recipient_countrycode": "+880",
+        "recipient_countrycode_iso": "BD"
+    },
+    {
+        "country_name": "Barbados",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "BB"
+    },
+    {
+        "country_name": "Belarus",
+        "recipient_countrycode": "+375",
+        "recipient_countrycode_iso": "BY"
+    },
+    {
+        "country_name": "Belgium",
+        "recipient_countrycode": "+32",
+        "recipient_countrycode_iso": "BE"
+    },
+    {
+        "country_name": "Belize",
+        "recipient_countrycode": "+501",
+        "recipient_countrycode_iso": "BZ"
+    },
+    {
+        "country_name": "Benin",
+        "recipient_countrycode": "+229",
+        "recipient_countrycode_iso": "BJ"
+    },
+    {
+        "country_name": "Bermuda",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "BM"
+    },
+    {
+        "country_name": "Bhutan",
+        "recipient_countrycode": "+975",
+        "recipient_countrycode_iso": "BT"
+    },
+    {
+        "country_name": "Bolivia",
+        "recipient_countrycode": "+591",
+        "recipient_countrycode_iso": "BO"
+    },
+    {
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "recipient_countrycode": "+599",
+        "recipient_countrycode_iso": "BQ"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "recipient_countrycode": "+387",
+        "recipient_countrycode_iso": "BA"
+    },
+    {
+        "country_name": "Botswana",
+        "recipient_countrycode": "+267",
+        "recipient_countrycode_iso": "BW"
+    },
+    {
+        "country_name": "Brazil",
+        "recipient_countrycode": "+55",
+        "recipient_countrycode_iso": "BR"
+    },
+    {
+        "country_name": "British Indian Ocean Territory",
+        "recipient_countrycode": "+246",
+        "recipient_countrycode_iso": "IO"
+    },
+    {
+        "country_name": "British Virgin Islands",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "VG"
+    },
+    {
+        "country_name": "Brunei",
+        "recipient_countrycode": "+673",
+        "recipient_countrycode_iso": "BN"
+    },
+    {
+        "country_name": "Bulgaria",
+        "recipient_countrycode": "+359",
+        "recipient_countrycode_iso": "BG"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "recipient_countrycode": "+226",
+        "recipient_countrycode_iso": "BF"
+    },
+    {
+        "country_name": "Burundi",
+        "recipient_countrycode": "+257",
+        "recipient_countrycode_iso": "BI"
+    },
+    {
+        "country_name": "Cambodia",
+        "recipient_countrycode": "+855",
+        "recipient_countrycode_iso": "KH"
+    },
+    {
+        "country_name": "Cameroon",
+        "recipient_countrycode": "+237",
+        "recipient_countrycode_iso": "CM"
+    },
+    {
+        "country_name": "Canada",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "CA"
+    },
+    {
+        "country_name": "Cape Verde",
+        "recipient_countrycode": "+238",
+        "recipient_countrycode_iso": "CV"
+    },
+    {
+        "country_name": "Cayman Islands",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "KY"
+    },
+    {
+        "country_name": "Central African Republic",
+        "recipient_countrycode": "+236",
+        "recipient_countrycode_iso": "CF"
+    },
+    {
+        "country_name": "Chad",
+        "recipient_countrycode": "+235",
+        "recipient_countrycode_iso": "TD"
+    },
+    {
+        "country_name": "Chile",
+        "recipient_countrycode": "+56",
+        "recipient_countrycode_iso": "CL"
+    },
+    {
+        "country_name": "China",
+        "recipient_countrycode": "+86",
+        "recipient_countrycode_iso": "CN"
+    },
+    {
+        "country_name": "Colombia",
+        "recipient_countrycode": "+57",
+        "recipient_countrycode_iso": "CO"
+    },
+    {
+        "country_name": "Comoros",
+        "recipient_countrycode": "+269",
+        "recipient_countrycode_iso": "KM"
+    },
+    {
+        "country_name": "Cook Islands",
+        "recipient_countrycode": "+682",
+        "recipient_countrycode_iso": "CK"
+    },
+    {
+        "country_name": "Costa Rica",
+        "recipient_countrycode": "+506",
+        "recipient_countrycode_iso": "CR"
+    },
+    {
+        "country_name": "Côte d'Ivoire",
+        "recipient_countrycode": "+225",
+        "recipient_countrycode_iso": "CI"
+    },
+    {
+        "country_name": "Croatia",
+        "recipient_countrycode": "+385",
+        "recipient_countrycode_iso": "HR"
+    },
+    {
+        "country_name": "Cuba",
+        "recipient_countrycode": "+53",
+        "recipient_countrycode_iso": "CU"
+    },
+    {
+        "country_name": "Curaçao",
+        "recipient_countrycode": "+599",
+        "recipient_countrycode_iso": "CW"
+    },
+    {
+        "country_name": "Cyprus",
+        "recipient_countrycode": "+357",
+        "recipient_countrycode_iso": "CY"
+    },
+    {
+        "country_name": "Czech Republic",
+        "recipient_countrycode": "+420",
+        "recipient_countrycode_iso": "CZ"
+    },
+    {
+        "country_name": "Democratic Republic of the Congo",
+        "recipient_countrycode": "+243",
+        "recipient_countrycode_iso": "CD"
+    },
+    {
+        "country_name": "Denmark",
+        "recipient_countrycode": "+45",
+        "recipient_countrycode_iso": "DK"
+    },
+    {
+        "country_name": "Djibouti",
+        "recipient_countrycode": "+253",
+        "recipient_countrycode_iso": "DJ"
+    },
+    {
+        "country_name": "Dominica",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "DM"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "DO"
+    },
+    {
+        "country_name": "Ecuador",
+        "recipient_countrycode": "+593",
+        "recipient_countrycode_iso": "EC"
+    },
+    {
+        "country_name": "Egypt",
+        "recipient_countrycode": "+20",
+        "recipient_countrycode_iso": "EG"
+    },
+    {
+        "country_name": "El Salvador",
+        "recipient_countrycode": "+503",
+        "recipient_countrycode_iso": "SV"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "recipient_countrycode": "+240",
+        "recipient_countrycode_iso": "GQ"
+    },
+    {
+        "country_name": "Eritrea",
+        "recipient_countrycode": "+291",
+        "recipient_countrycode_iso": "ER"
+    },
+    {
+        "country_name": "Estonia",
+        "recipient_countrycode": "+372",
+        "recipient_countrycode_iso": "EE"
+    },
+    {
+        "country_name": "Ethiopia",
+        "recipient_countrycode": "+251",
+        "recipient_countrycode_iso": "ET"
+    },
+    {
+        "country_name": "Falkland Islands",
+        "recipient_countrycode": "+500",
+        "recipient_countrycode_iso": "FK"
+    },
+    {
+        "country_name": "Faroe Islands",
+        "recipient_countrycode": "+298",
+        "recipient_countrycode_iso": "FO"
+    },
+    {
+        "country_name": "Federated States of Micronesia",
+        "recipient_countrycode": "+691",
+        "recipient_countrycode_iso": "FM"
+    },
+    {
+        "country_name": "Fiji",
+        "recipient_countrycode": "+679",
+        "recipient_countrycode_iso": "FJ"
+    },
+    {
+        "country_name": "Finland",
+        "recipient_countrycode": "+358",
+        "recipient_countrycode_iso": "FI"
+    },
+    {
+        "country_name": "France",
+        "recipient_countrycode": "+33",
+        "recipient_countrycode_iso": "FR"
+    },
+    {
+        "country_name": "French Guiana",
+        "recipient_countrycode": "+594",
+        "recipient_countrycode_iso": "GF"
+    },
+    {
+        "country_name": "French Polynesia",
+        "recipient_countrycode": "+689",
+        "recipient_countrycode_iso": "PF"
+    },
+    {
+        "country_name": "Gabon",
+        "recipient_countrycode": "+241",
+        "recipient_countrycode_iso": "GA"
+    },
+    {
+        "country_name": "Georgia",
+        "recipient_countrycode": "+995",
+        "recipient_countrycode_iso": "GE"
+    },
+    {
+        "country_name": "Germany",
+        "recipient_countrycode": "+49",
+        "recipient_countrycode_iso": "DE"
+    },
+    {
+        "country_name": "Ghana",
+        "recipient_countrycode": "+233",
+        "recipient_countrycode_iso": "GH"
+    },
+    {
+        "country_name": "Gibraltar",
+        "recipient_countrycode": "+350",
+        "recipient_countrycode_iso": "GI"
+    },
+    {
+        "country_name": "Greece",
+        "recipient_countrycode": "+30",
+        "recipient_countrycode_iso": "GR"
+    },
+    {
+        "country_name": "Greenland",
+        "recipient_countrycode": "+299",
+        "recipient_countrycode_iso": "GL"
+    },
+    {
+        "country_name": "Grenada",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "GD"
+    },
+    {
+        "country_name": "Guadeloupe",
+        "recipient_countrycode": "+590",
+        "recipient_countrycode_iso": "GP"
+    },
+    {
+        "country_name": "Guam",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "GU"
+    },
+    {
+        "country_name": "Guatemala",
+        "recipient_countrycode": "+502",
+        "recipient_countrycode_iso": "GT"
+    },
+    {
+        "country_name": "Guernsey",
+        "recipient_countrycode": "+44",
+        "recipient_countrycode_iso": "GG"
+    },
+    {
+        "country_name": "Guinea",
+        "recipient_countrycode": "+224",
+        "recipient_countrycode_iso": "GN"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "recipient_countrycode": "+245",
+        "recipient_countrycode_iso": "GW"
+    },
+    {
+        "country_name": "Guyana",
+        "recipient_countrycode": "+592",
+        "recipient_countrycode_iso": "GY"
+    },
+    {
+        "country_name": "Haiti",
+        "recipient_countrycode": "+509",
+        "recipient_countrycode_iso": "HT"
+    },
+    {
+        "country_name": "Honduras",
+        "recipient_countrycode": "+504",
+        "recipient_countrycode_iso": "HN"
+    },
+    {
+        "country_name": "Hong Kong",
+        "recipient_countrycode": "+852",
+        "recipient_countrycode_iso": "HK"
+    },
+    {
+        "country_name": "Hungary",
+        "recipient_countrycode": "+36",
+        "recipient_countrycode_iso": "HU"
+    },
+    {
+        "country_name": "Iceland",
+        "recipient_countrycode": "+354",
+        "recipient_countrycode_iso": "IS"
+    },
+    {
+        "country_name": "India",
+        "recipient_countrycode": "+91",
+        "recipient_countrycode_iso": "IN"
+    },
+    {
+        "country_name": "Indonesia",
+        "recipient_countrycode": "+62",
+        "recipient_countrycode_iso": "ID"
+    },
+    {
+        "country_name": "Iran",
+        "recipient_countrycode": "+98",
+        "recipient_countrycode_iso": "IR"
+    },
+    {
+        "country_name": "Iraq",
+        "recipient_countrycode": "+964",
+        "recipient_countrycode_iso": "IQ"
+    },
+    {
+        "country_name": "Ireland",
+        "recipient_countrycode": "+353",
+        "recipient_countrycode_iso": "IE"
+    },
+    {
+        "country_name": "Isle Of Man",
+        "recipient_countrycode": "+44",
+        "recipient_countrycode_iso": "IM"
+    },
+    {
+        "country_name": "Israel",
+        "recipient_countrycode": "+972",
+        "recipient_countrycode_iso": "IL"
+    },
+    {
+        "country_name": "Italy",
+        "recipient_countrycode": "+39",
+        "recipient_countrycode_iso": "IT"
+    },
+    {
+        "country_name": "Jamaica",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "JM"
+    },
+    {
+        "country_name": "Japan",
+        "recipient_countrycode": "+81",
+        "recipient_countrycode_iso": "JP"
+    },
+    {
+        "country_name": "Jersey",
+        "recipient_countrycode": "+44",
+        "recipient_countrycode_iso": "JE"
+    },
+    {
+        "country_name": "Jordan",
+        "recipient_countrycode": "+962",
+        "recipient_countrycode_iso": "JO"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "recipient_countrycode": "+7",
+        "recipient_countrycode_iso": "KZ"
+    },
+    {
+        "country_name": "Kenya",
+        "recipient_countrycode": "+254",
+        "recipient_countrycode_iso": "KE"
+    },
+    {
+        "country_name": "Kiribati",
+        "recipient_countrycode": "+686",
+        "recipient_countrycode_iso": "KI"
+    },
+    {
+        "country_name": "Kuwait",
+        "recipient_countrycode": "+965",
+        "recipient_countrycode_iso": "KW"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "recipient_countrycode": "+996",
+        "recipient_countrycode_iso": "KG"
+    },
+    {
+        "country_name": "Laos",
+        "recipient_countrycode": "+856",
+        "recipient_countrycode_iso": "LA"
+    },
+    {
+        "country_name": "Latvia",
+        "recipient_countrycode": "+371",
+        "recipient_countrycode_iso": "LV"
+    },
+    {
+        "country_name": "Lebanon",
+        "recipient_countrycode": "+961",
+        "recipient_countrycode_iso": "LB"
+    },
+    {
+        "country_name": "Lesotho",
+        "recipient_countrycode": "+266",
+        "recipient_countrycode_iso": "LS"
+    },
+    {
+        "country_name": "Liberia",
+        "recipient_countrycode": "+231",
+        "recipient_countrycode_iso": "LR"
+    },
+    {
+        "country_name": "Libya",
+        "recipient_countrycode": "+218",
+        "recipient_countrycode_iso": "LY"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "recipient_countrycode": "+423",
+        "recipient_countrycode_iso": "LI"
+    },
+    {
+        "country_name": "Lithuania",
+        "recipient_countrycode": "+370",
+        "recipient_countrycode_iso": "LT"
+    },
+    {
+        "country_name": "Luxembourg",
+        "recipient_countrycode": "+352",
+        "recipient_countrycode_iso": "LU"
+    },
+    {
+        "country_name": "Macau",
+        "recipient_countrycode": "+853",
+        "recipient_countrycode_iso": "MO"
+    },
+    {
+        "country_name": "Macedonia",
+        "recipient_countrycode": "+389",
+        "recipient_countrycode_iso": "MK"
+    },
+    {
+        "country_name": "Madagascar",
+        "recipient_countrycode": "+261",
+        "recipient_countrycode_iso": "MG"
+    },
+    {
+        "country_name": "Malawi",
+        "recipient_countrycode": "+265",
+        "recipient_countrycode_iso": "MW"
+    },
+    {
+        "country_name": "Malaysia",
+        "recipient_countrycode": "+60",
+        "recipient_countrycode_iso": "MY"
+    },
+    {
+        "country_name": "Maldives",
+        "recipient_countrycode": "+960",
+        "recipient_countrycode_iso": "MV"
+    },
+    {
+        "country_name": "Mali",
+        "recipient_countrycode": "+223",
+        "recipient_countrycode_iso": "ML"
+    },
+    {
+        "country_name": "Malta",
+        "recipient_countrycode": "+356",
+        "recipient_countrycode_iso": "MT"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "recipient_countrycode": "+692",
+        "recipient_countrycode_iso": "MH"
+    },
+    {
+        "country_name": "Martinique",
+        "recipient_countrycode": "+596",
+        "recipient_countrycode_iso": "MQ"
+    },
+    {
+        "country_name": "Mauritania",
+        "recipient_countrycode": "+222",
+        "recipient_countrycode_iso": "MR"
+    },
+    {
+        "country_name": "Mauritius",
+        "recipient_countrycode": "+230",
+        "recipient_countrycode_iso": "MU"
+    },
+    {
+        "country_name": "Mayotte",
+        "recipient_countrycode": "+262",
+        "recipient_countrycode_iso": "YT"
+    },
+    {
+        "country_name": "Mexico",
+        "recipient_countrycode": "+52",
+        "recipient_countrycode_iso": "MX"
+    },
+    {
+        "country_name": "Moldova",
+        "recipient_countrycode": "+373",
+        "recipient_countrycode_iso": "MD"
+    },
+    {
+        "country_name": "Monaco",
+        "recipient_countrycode": "+377",
+        "recipient_countrycode_iso": "MC"
+    },
+    {
+        "country_name": "Mongolia",
+        "recipient_countrycode": "+976",
+        "recipient_countrycode_iso": "MN"
+    },
+    {
+        "country_name": "Montenegro",
+        "recipient_countrycode": "+382",
+        "recipient_countrycode_iso": "ME"
+    },
+    {
+        "country_name": "Montserrat",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "MS"
+    },
+    {
+        "country_name": "Morocco",
+        "recipient_countrycode": "+212",
+        "recipient_countrycode_iso": "MA"
+    },
+    {
+        "country_name": "Mozambique",
+        "recipient_countrycode": "+258",
+        "recipient_countrycode_iso": "MZ"
+    },
+    {
+        "country_name": "Myanmar",
+        "recipient_countrycode": "+95",
+        "recipient_countrycode_iso": "MM"
+    },
+    {
+        "country_name": "Namibia",
+        "recipient_countrycode": "+264",
+        "recipient_countrycode_iso": "NA"
+    },
+    {
+        "country_name": "Nauru",
+        "recipient_countrycode": "+674",
+        "recipient_countrycode_iso": "NR"
+    },
+    {
+        "country_name": "Nepal",
+        "recipient_countrycode": "+977",
+        "recipient_countrycode_iso": "NP"
+    },
+    {
+        "country_name": "Netherlands",
+        "recipient_countrycode": "+31",
+        "recipient_countrycode_iso": "NL"
+    },
+    {
+        "country_name": "New Caledonia",
+        "recipient_countrycode": "+687",
+        "recipient_countrycode_iso": "NC"
+    },
+    {
+        "country_name": "New Zealand",
+        "recipient_countrycode": "+64",
+        "recipient_countrycode_iso": "NZ"
+    },
+    {
+        "country_name": "Nicaragua",
+        "recipient_countrycode": "+505",
+        "recipient_countrycode_iso": "NI"
+    },
+    {
+        "country_name": "Niger",
+        "recipient_countrycode": "+227",
+        "recipient_countrycode_iso": "NE"
+    },
+    {
+        "country_name": "Nigeria",
+        "recipient_countrycode": "+234",
+        "recipient_countrycode_iso": "NG"
+    },
+    {
+        "country_name": "Niue",
+        "recipient_countrycode": "+683",
+        "recipient_countrycode_iso": "NU"
+    },
+    {
+        "country_name": "Norfolk Island",
+        "recipient_countrycode": "+672",
+        "recipient_countrycode_iso": "NF"
+    },
+    {
+        "country_name": "North Korea",
+        "recipient_countrycode": "+850",
+        "recipient_countrycode_iso": "KP"
+    },
+    {
+        "country_name": "Northern Mariana Islands",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "MP"
+    },
+    {
+        "country_name": "Norway",
+        "recipient_countrycode": "+47",
+        "recipient_countrycode_iso": "NO"
+    },
+    {
+        "country_name": "Oman",
+        "recipient_countrycode": "+968",
+        "recipient_countrycode_iso": "OM"
+    },
+    {
+        "country_name": "Pakistan",
+        "recipient_countrycode": "+92",
+        "recipient_countrycode_iso": "PK"
+    },
+    {
+        "country_name": "Palau",
+        "recipient_countrycode": "+680",
+        "recipient_countrycode_iso": "PW"
+    },
+    {
+        "country_name": "Palestine",
+        "recipient_countrycode": "+970",
+        "recipient_countrycode_iso": "PS"
+    },
+    {
+        "country_name": "Panama",
+        "recipient_countrycode": "+507",
+        "recipient_countrycode_iso": "PA"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "recipient_countrycode": "+675",
+        "recipient_countrycode_iso": "PG"
+    },
+    {
+        "country_name": "Paraguay",
+        "recipient_countrycode": "+595",
+        "recipient_countrycode_iso": "PY"
+    },
+    {
+        "country_name": "Peru",
+        "recipient_countrycode": "+51",
+        "recipient_countrycode_iso": "PE"
+    },
+    {
+        "country_name": "Philippines",
+        "recipient_countrycode": "+63",
+        "recipient_countrycode_iso": "PH"
+    },
+    {
+        "country_name": "Poland",
+        "recipient_countrycode": "+48",
+        "recipient_countrycode_iso": "PL"
+    },
+    {
+        "country_name": "Portugal",
+        "recipient_countrycode": "+351",
+        "recipient_countrycode_iso": "PT"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "PR"
+    },
+    {
+        "country_name": "Qatar",
+        "recipient_countrycode": "+974",
+        "recipient_countrycode_iso": "QA"
+    },
+    {
+        "country_name": "Republic of the Congo",
+        "recipient_countrycode": "+242",
+        "recipient_countrycode_iso": "CG"
+    },
+    {
+        "country_name": "Réunion",
+        "recipient_countrycode": "+262",
+        "recipient_countrycode_iso": "RE"
+    },
+    {
+        "country_name": "Romania",
+        "recipient_countrycode": "+40",
+        "recipient_countrycode_iso": "RO"
+    },
+    {
+        "country_name": "Russia",
+        "recipient_countrycode": "+7",
+        "recipient_countrycode_iso": "RU"
+    },
+    {
+        "country_name": "Rwanda",
+        "recipient_countrycode": "+250",
+        "recipient_countrycode_iso": "RW"
+    },
+    {
+        "country_name": "Saint Helena",
+        "recipient_countrycode": "+290",
+        "recipient_countrycode_iso": "SH"
+    },
+    {
+        "country_name": "Saint Kitts and Nevis",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "KN"
+    },
+    {
+        "country_name": "Saint Pierre and Miquelon",
+        "recipient_countrycode": "+508",
+        "recipient_countrycode_iso": "PM"
+    },
+    {
+        "country_name": "Saint Vincent and the Grenadines",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "VC"
+    },
+    {
+        "country_name": "Samoa",
+        "recipient_countrycode": "+685",
+        "recipient_countrycode_iso": "WS"
+    },
+    {
+        "country_name": "San Marino",
+        "recipient_countrycode": "+378",
+        "recipient_countrycode_iso": "SM"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "recipient_countrycode": "+239",
+        "recipient_countrycode_iso": "ST"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "recipient_countrycode": "+966",
+        "recipient_countrycode_iso": "SA"
+    },
+    {
+        "country_name": "Senegal",
+        "recipient_countrycode": "+221",
+        "recipient_countrycode_iso": "SN"
+    },
+    {
+        "country_name": "Serbia",
+        "recipient_countrycode": "+381",
+        "recipient_countrycode_iso": "RS"
+    },
+    {
+        "country_name": "Seychelles",
+        "recipient_countrycode": "+248",
+        "recipient_countrycode_iso": "SC"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "recipient_countrycode": "+232",
+        "recipient_countrycode_iso": "SL"
+    },
+    {
+        "country_name": "Singapore",
+        "recipient_countrycode": "+65",
+        "recipient_countrycode_iso": "SG"
+    },
+    {
+        "country_name": "Sint Maarten",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "SX"
+    },
+    {
+        "country_name": "Slovakia",
+        "recipient_countrycode": "+421",
+        "recipient_countrycode_iso": "SK"
+    },
+    {
+        "country_name": "Slovenia",
+        "recipient_countrycode": "+386",
+        "recipient_countrycode_iso": "SI"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "recipient_countrycode": "+677",
+        "recipient_countrycode_iso": "SB"
+    },
+    {
+        "country_name": "Somalia",
+        "recipient_countrycode": "+252",
+        "recipient_countrycode_iso": "SO"
+    },
+    {
+        "country_name": "South Africa",
+        "recipient_countrycode": "+27",
+        "recipient_countrycode_iso": "ZA"
+    },
+    {
+        "country_name": "South Korea",
+        "recipient_countrycode": "+82",
+        "recipient_countrycode_iso": "KR"
+    },
+    {
+        "country_name": "South Sudan",
+        "recipient_countrycode": "+211",
+        "recipient_countrycode_iso": "SS"
+    },
+    {
+        "country_name": "Spain",
+        "recipient_countrycode": "+34",
+        "recipient_countrycode_iso": "ES"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "recipient_countrycode": "+94",
+        "recipient_countrycode_iso": "LK"
+    },
+    {
+        "country_name": "St. Lucia",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "LC"
+    },
+    {
+        "country_name": "Sudan",
+        "recipient_countrycode": "+249",
+        "recipient_countrycode_iso": "SD"
+    },
+    {
+        "country_name": "Suriname",
+        "recipient_countrycode": "+597",
+        "recipient_countrycode_iso": "SR"
+    },
+    {
+        "country_name": "Swaziland",
+        "recipient_countrycode": "+268",
+        "recipient_countrycode_iso": "SZ"
+    },
+    {
+        "country_name": "Sweden",
+        "recipient_countrycode": "+46",
+        "recipient_countrycode_iso": "SE"
+    },
+    {
+        "country_name": "Switzerland",
+        "recipient_countrycode": "+41",
+        "recipient_countrycode_iso": "CH"
+    },
+    {
+        "country_name": "Syria",
+        "recipient_countrycode": "+963",
+        "recipient_countrycode_iso": "SY"
+    },
+    {
+        "country_name": "Taiwan",
+        "recipient_countrycode": "+886",
+        "recipient_countrycode_iso": "TW"
+    },
+    {
+        "country_name": "Tajikistan",
+        "recipient_countrycode": "+992",
+        "recipient_countrycode_iso": "TJ"
+    },
+    {
+        "country_name": "Tanzania",
+        "recipient_countrycode": "+255",
+        "recipient_countrycode_iso": "TZ"
+    },
+    {
+        "country_name": "Thailand",
+        "recipient_countrycode": "+66",
+        "recipient_countrycode_iso": "TH"
+    },
+    {
+        "country_name": "The Bahamas",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "BS"
+    },
+    {
+        "country_name": "The Gambia",
+        "recipient_countrycode": "+220",
+        "recipient_countrycode_iso": "GM"
+    },
+    {
+        "country_name": "Timor-Leste",
+        "recipient_countrycode": "+670",
+        "recipient_countrycode_iso": "TL"
+    },
+    {
+        "country_name": "Togo",
+        "recipient_countrycode": "+228",
+        "recipient_countrycode_iso": "TG"
+    },
+    {
+        "country_name": "Tokelau",
+        "recipient_countrycode": "+690",
+        "recipient_countrycode_iso": "TK"
+    },
+    {
+        "country_name": "Tonga",
+        "recipient_countrycode": "+676",
+        "recipient_countrycode_iso": "TO"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "TT"
+    },
+    {
+        "country_name": "Tunisia",
+        "recipient_countrycode": "+216",
+        "recipient_countrycode_iso": "TN"
+    },
+    {
+        "country_name": "Turkey",
+        "recipient_countrycode": "+90",
+        "recipient_countrycode_iso": "TR"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "recipient_countrycode": "+993",
+        "recipient_countrycode_iso": "TM"
+    },
+    {
+        "country_name": "Turks and Caicos Islands",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "TC"
+    },
+    {
+        "country_name": "Tuvalu",
+        "recipient_countrycode": "+688",
+        "recipient_countrycode_iso": "TV"
+    },
+    {
+        "country_name": "Uganda",
+        "recipient_countrycode": "+256",
+        "recipient_countrycode_iso": "UG"
+    },
+    {
+        "country_name": "Ukraine",
+        "recipient_countrycode": "+380",
+        "recipient_countrycode_iso": "UA"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "recipient_countrycode": "+971",
+        "recipient_countrycode_iso": "AE"
+    },
+    {
+        "country_name": "United Kingdom",
+        "recipient_countrycode": "+44",
+        "recipient_countrycode_iso": "GB"
+    },
+    {
+        "country_name": "United States",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "US"
+    },
+    {
+        "country_name": "Uruguay",
+        "recipient_countrycode": "+598",
+        "recipient_countrycode_iso": "UY"
+    },
+    {
+        "country_name": "US Virgin Islands",
+        "recipient_countrycode": "+1",
+        "recipient_countrycode_iso": "VI"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "recipient_countrycode": "+998",
+        "recipient_countrycode_iso": "UZ"
+    },
+    {
+        "country_name": "Vanuatu",
+        "recipient_countrycode": "+678",
+        "recipient_countrycode_iso": "VU"
+    },
+    {
+        "country_name": "Venezuela",
+        "recipient_countrycode": "+58",
+        "recipient_countrycode_iso": "VE"
+    },
+    {
+        "country_name": "Vietnam",
+        "recipient_countrycode": "+84",
+        "recipient_countrycode_iso": "VN"
+    },
+    {
+        "country_name": "Wallis and Futuna",
+        "recipient_countrycode": "+681",
+        "recipient_countrycode_iso": "WF"
+    },
+    {
+        "country_name": "Western Sahara",
+        "recipient_countrycode": "+212",
+        "recipient_countrycode_iso": "EH"
+    },
+    {
+        "country_name": "Yemen",
+        "recipient_countrycode": "+967",
+        "recipient_countrycode_iso": "YE"
+    },
+    {
+        "country_name": "Zambia",
+        "recipient_countrycode": "+260",
+        "recipient_countrycode_iso": "ZM"
+    }]
